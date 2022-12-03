@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chad Hughes</title>
+    <link>http://chadhughes.com/</link>
+    <description>Recent content on Chad Hughes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 24 Jun 2016 21:34:15 -0800</lastBuildDate><atom:link href="http://chadhughes.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tumblr</title>
+      <link>http://chadhughes.com/posts/tumblr/</link>
+      <pubDate>Fri, 24 Jun 2016 21:34:15 -0800</pubDate>
+      
+      <guid>http://chadhughes.com/posts/tumblr/</guid>
+      <description> Tumblr </description>
+    </item>
+    
+    <item>
+      <title>Blogger</title>
+      <link>http://chadhughes.com/posts/blogger/</link>
+      <pubDate>Wed, 20 Jul 2011 21:34:15 -0800</pubDate>
+      
+      <guid>http://chadhughes.com/posts/blogger/</guid>
+      <description> Blogger </description>
+    </item>
+    
+  </channel>
+</rss>
